@@ -1,0 +1,67 @@
+/* PERFECT QUIZ style.css */
+
+/* Add your CSS styles for the quiz here */
+body {
+  /* Example background styles */
+  background-image: url("https://img.freepik.com/free-vector/colorful-science-education-background_23-2148490697.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Style the quiz container */
+#quiz {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #2290da;
+  border-radius: 5px;
+}
+
+/* Style the quiz title */
+h1 {
+  text-align: center;
+}
+
+/* Style the quiz form */
+form {
+  margin-top: 20px;
+}
+
+/* Style the quiz questions */
+p {
+  font-weight: bold;
+}
+
+/* Style the quiz input fields */
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+/* Style the submit button */
+input[type="submit"] {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-top: 20px;
+  box-sizing: border-box;
+  background-color: #0e699e;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Style the result message */
+#result {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 20px;
+  display: none;
+}
