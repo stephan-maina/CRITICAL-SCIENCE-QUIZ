@@ -1,0 +1,255 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the percentage of the earth's surface covered by water?",
+        "correctAnswer": "71%"
+      },
+      {
+        "id": 2,
+        "question": "How does the brain communicate sensations, thoughts, and actions?",
+        "correctAnswer": "Through neurons and electrical signals"
+      },
+      {
+        "id": 3,
+        "question": "Did dinosaurs and humans coexist?",
+        "correctAnswer": "No"
+      },
+      {
+        "id": 4,
+        "question": "What is Darwin's theory of the origin of species?",
+        "correctAnswer": "The theory of natural selection"
+      },
+      {
+        "id": 5,
+        "question": "Why does a year consist of 365 days and a day of 24 hours?",
+        "correctAnswer": "Due to Earth's orbit around the sun and its rotation"
+      },
+      {
+        "id": 6,
+        "question": "Why is the sky blue?",
+        "correctAnswer": "Due to scattering of sunlight by the atmosphere"
+      },
+      {
+        "id": 7,
+        "question": "What causes a rainbow to appear?",
+        "correctAnswer": "Refraction, reflection, and dispersion of light in water droplets"
+      },
+      {
+        "id": 8,
+        "question": "What makes diseases caused by viruses and bacteria hard to treat?",
+        "correctAnswer": "Their ability to mutate and develop resistance"
+      },
+      {
+        "id": 9,
+        "question": "How old are the oldest fossils on Earth?",
+        "correctAnswer": "Around 3.5 billion years"
+      },
+      {
+        "id": 10,
+        "question": "Why do we put salt on sidewalks when it snows?",
+        "correctAnswer": "To melt the ice and lower its freezing point"
+      },
+      {
+        "id": 11,
+        "question": "Can wind travel faster than the speed of sound?",
+        "correctAnswer": "No"
+      },
+      {
+        "id": 12,
+        "question": "Why do clouds move if they are made of water vapor?",
+        "correctAnswer": "Due to air currents and wind"
+      },
+      {
+        "id": 13,
+        "question": "Do I weigh less on the equator than at the North Pole?",
+        "correctAnswer": "Yes, slightly"
+      },
+      {
+        "id": 14,
+        "question": "Does the back of a rainbow look the same as its front side?",
+        "correctAnswer": "No, the back is less vibrant"
+      },
+      {
+        "id": 15,
+        "question": "Does wasting household water remove it from the water cycle?",
+        "correctAnswer": "No, water is continuously recycled"
+      },
+      {
+        "id": 16,
+        "question": "How can there be clouds in winter when it is too cold for water to stay as vapor?",
+        "correctAnswer": "Water vapor can still condense and form clouds in colder temperatures"
+      },
+      {
+        "id": 17,
+        "question": "How do geologists use carbon dating to find the age of rocks?",
+        "correctAnswer": "They use the decay of radioactive carbon isotopes to determine the age"
+      },
+      {
+        "id": 18,
+        "question": "How do icebergs lose their salt?",
+        "correctAnswer": "Icebergs form from freshwater glaciers, not saltwater"
+      },
+      {
+        "id": 19,
+        "question": "How do wells get their water from underground rivers?",
+        "correctAnswer": "Wells tap into underground aquifers, not necessarily rivers"
+      },
+      {
+        "id": 20,
+        "question": "How does a cloud fill up with water?",
+        "correctAnswer": "Water vapor condenses onto microscopic particles to form cloud droplets"
+      },
+      {
+        "id": 21,
+        "question": "Could electronic devices charge themselves without being plugged into an electricity source?",
+        "correctAnswer": "No, they require an external power source"
+      },
+      {
+        "id": 22,
+        "question": "Does a source of electricity ever run out of electrons?",
+        "correctAnswer": "No, electrons are not consumed or depleted in the process"
+      },
+      {
+        "id": 23,
+        "question": "Do blind people dream in visual images?",
+        "correctAnswer": "It depends on whether they were born blind or lost their vision"
+      },
+      {
+        "id": 24,
+        "question": "What is the speed of electricity?",
+        "correctAnswer": "The speed of electricity is close to the speed of light"
+      },
+      {
+        "id": 25,
+        "question": "Why can't lightning strike the same place twice?",
+        "correctAnswer": "Lightning can strike the same place multiple times"
+      },
+      {
+        "id": 26,
+        "question": "Why do car tires protect you from lightning strikes?",
+        "correctAnswer": "Car tires provide insulation from the ground"
+      },
+      {
+        "id": 27,
+        "question": "Why does lightning push electricity through air, but common batteries do not?",
+        "correctAnswer": "Lightning involves high voltages and currents, whereas batteries produce low currents"
+      },
+      {
+        "id": 28,
+        "question": "Why is a 12-volt household battery harmless, but the shock from a 12-volt car battery will kill you?",
+        "correctAnswer": "It's the current (amperage) that determines the severity of the shock, not just voltage"
+      },
+      {
+        "id": 29,
+        "question": "Why were electrons chosen to be negatively charged? Wouldn't it make more sense to call electrons positively charged because when they move they make electricity?",
+        "correctAnswer": "Electron charge was assigned based on historical conventions, not the direction of electron flow in electric circuits"
+      },
+      {
+        "id": 30,
+        "question": "What does DNA stand for?",
+        "correctAnswer": "Deoxyribonucleic acid"
+      },
+      {
+        "id": 31,
+        "question": "How many bones are in the human body?",
+        "correctAnswer": "206"
+      },
+      {
+        "id": 32,
+        "question": "The concept of gravity was discovered by which famous physicist?",
+        "correctAnswer": "Isaac Newton"
+      },
+      {
+        "id": 33,
+        "question": "What is the hardest natural substance on Earth?",
+        "correctAnswer":"Diamond"
+      },
+      {
+        "id": 34,
+        "question": "Which is the main gas that makes up the Earth's atmosphere?",
+        "correctAnswer": "Nitrogen"
+      },
+      {
+        "id": 35,
+        "question": "Humans and chimpanzees share roughly how much DNA?",
+        "correctAnswer": "Around 98-99%"
+      },
+      {
+        "id": 36,
+        "question": "What is the most abundant gas in the Earth's atmosphere?",
+        "correctAnswer": "Nitrogen"
+      },
+      {
+        "id": 37,
+        "question": "Roughly how long does it take for the sun's light to reach Earth - 8 minutes, 8 hours, or 8 days?",
+        "correctAnswer": "8 minutes"
+      },
+      {
+        "id": 38,
+        "question": "Which famous British physicist wrote A Brief History of Time?",
+        "correctAnswer": "Stephen Hawking"
+      },
+      {
+        "id": 39,
+        "question": "At what temperature are Celsius and Fahrenheit equal?",
+        "correctAnswer": "-40 degrees"
+      },
+      {
+        "id": 40,
+        "question": "What modern-day country was Marie Curie born in?",
+        "correctAnswer": "Poland"
+      },
+      {
+        "id": 41,
+        "question": "What is the biggest planet in our solar system?",
+        "correctAnswer": "Jupiter"
+      },
+      {
+        "id": 42,
+        "question": "What name is given for the number of protons found in the nucleus of an atom?",
+        "correctAnswer": "Atomic number"
+      },
+      {
+        "id": 43,
+        "question": "How many vertebrae does the average human possess?",
+        "correctAnswer": "33"
+      },
+      {
+        "id": 44,
+        "question": "What was the name of the first man-made satellite launched by the Soviet Union in 1957?",
+        "correctAnswer": "Sputnik 1"
+      },
+      {
+        "id": 45,
+        "question": "Which oath of ethics taken by doctors is named after an Ancient Greek physician?",
+        "correctAnswer": "Hippocratic Oath"
+      },
+      {
+        "id": 46,
+        "question": "What is a material that will not carry an electrical charge called?",
+        "correctAnswer": "Insulator"
+      },
+      {
+        "id": 47,
+        "question": "Which Apollo moon mission was the first to carry a lunar rover?",
+        "correctAnswer": "Apollo 15"
+      },
+      {
+        "id": 48,
+        "question": "How many teeth does an adult human have?",
+        "correctAnswer": "32"
+      },
+      {
+        "id": 49,
+        "question": "What is the study of mushrooms called?",
+        "correctAnswer": "Mycology"
+      },
+      {
+        "id": 50,
+        "question": "How many brains and how many hearts does an octopus have?",
+        "correctAnswer": "1 brain and 3 hearts"
+      }
+    ]
+  }
+  
